@@ -30,4 +30,3 @@ steps:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'war'
     publishLocation: 'Container'
-    MaxArtifactSize: 
